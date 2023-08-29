@@ -18,10 +18,10 @@ UWP Allows you to join ROBLOX servers &amp; private servers from the ROBLOX app,
 (Roblox APP and Roblox Player):
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/31a06e4a-6f4d-42a4-9c0d-a76bf048c3c5)
 
-5. Click the ROBLOX app protocol (seen in the image), and change it to the roblox Player (website version, smaller icon):
+5. Click the ROBLOX Microsoft app protocol (seen in the image), and change it to the roblox Player (website version, smaller icon):
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/c30d5d60-36be-4fc9-affb-95dd4f4e92f9)
 
-7. Do the same thing for the Roblox Player (below the Roblox App), and change it to the Roblox APP version. (bigger icon):
+7. Do the same thing for the Roblox Player (below the Roblox Microsoft App), and change it to the Roblox Microsoft APP version. (bigger icon):
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/0d7d6391-0dd1-4ef9-aac4-816bdac9eb2c)
 
 9. Now onto the easy part. Download the CRX file as a ZIP file:
@@ -41,14 +41,14 @@ UWP Allows you to join ROBLOX servers &amp; private servers from the ROBLOX app,
 14. Click Install on the UWP extension:
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/937584c4-2dbc-4402-afe7-30337b8257e2)
 
-15. Confirm the download (for any safety concerns, all this extension does is add a button to your screen and open the roblox App):
+15. Confirm the download (for any safety concerns, all this extension does is add a button to your screen and open the roblox Microsoft App):
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/aaf3f48b-7f23-4827-bf18-e3dc913d0278)
 
 16. Once confirmed you are done! You have successfully installed UWP.
 
 # How do I use this?
 
-If you want to join any game using the UWP, click UWP on a game page and it should launch the roblox app:
+If you want to join any game using the UWP, click UWP on a game page and it should launch the roblox Microsoft app:
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/2135d732-65d5-455c-86e2-685b4f2bafd5)
 
 # Private Servers
@@ -58,7 +58,7 @@ To join VIP servers using the UWP Joiner, you need to click the UWP Button as so
 
 # TIP for private servers
 
-1. Keep Roblox App open before joining the private server.
+1. Keep Roblox Microsoft App open before joining the private server.
 2. Once the game is launching for the private server on the web, click the UWP as usual, and it should load even quicker into the private server.
 
 # What can this be used for?
