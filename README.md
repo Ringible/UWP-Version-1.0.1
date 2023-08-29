@@ -1,4 +1,4 @@
-# UWP-Version-1.0.1
+# UWP JOiner Version-1.0.1
 UWP Allows you to join ROBLOX servers &amp; private servers from the ROBLOX app, with this extension, with a simple click, you can be redirected to the app and join the server very quickly and with ease. There are many ways this can benefit you.
 
 ![template](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/f4405818-d64f-4b7e-bc18-63d2490ebec6)
