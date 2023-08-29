@@ -14,7 +14,8 @@ UWP Allows you to join ROBLOX servers &amp; private servers from the ROBLOX app,
 2. Once done, scroll all the way to the bottom of the page and click "Choose default applications by protocol":
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/641881a4-4c90-4c90-b547-d456aec25502)
 
-3. Now you should see a lot of apps, keep scrolling down until you find both of your ROBLOX applications. (Roblox APP and Roblox Player):
+3. Now you should see a lot of apps, keep scrolling down until you find both of your ROBLOX applications.
+(Roblox APP and Roblox Player):
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/31a06e4a-6f4d-42a4-9c0d-a76bf048c3c5)
 
 5. Click the ROBLOX app protocol (seen in the image), and change it to the roblox Player (website version, smaller icon):
