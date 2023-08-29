@@ -56,6 +56,10 @@ If you want to join any game using the UWP, click UWP on a game page and it shou
 To join VIP servers using the UWP Joiner, you need to click the UWP Button as soon as the page loads / when the button is bright green overlaying the screen:
 ![image](https://github.com/Ringible/UWP-Version-1.0.1/assets/143556044/6c4e1565-870c-44a7-a266-3bc333c8c525)
 
+# TIP for private servers
+
+1. Keep Roblox App open before joining the private server.
+2. Once the game is launching for the private server on the web, click the UWP as usual, and it should load even quicker into the private server.
 
 # What can this be used for?
 1. Join VIP servers quickly for events/donations etc.
